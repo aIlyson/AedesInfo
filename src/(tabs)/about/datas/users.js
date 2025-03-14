@@ -1,7 +1,7 @@
 export const users = [
   {
     name: "Alysson",
-    role: "Pesquisador",
+    role: "Desenvolvedor",
     icon: "user",
     instagramUsername: "alyssonms_",
   },
@@ -19,7 +19,7 @@ export const users = [
   },
   {
     name: "Luiz H.",
-    role: "Pesquisador",
+    role: "DBA",
     icon: "user",
     instagramUsername: "cavalcante_luiz_henrique",
   },

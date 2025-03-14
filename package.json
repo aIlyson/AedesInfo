@@ -22,7 +22,7 @@
     "i18next": "^23.7.6",
     "react": "18.2.0",
     "react-i18next": "^13.5.0",
-    "react-native": "0.72.6",
+    "react-native": "0.72.10",
     "react-native-chart-kit": "^6.12.0",
     "react-native-elements": "^3.4.3",
     "react-native-gesture-handler": "~2.12.0",
